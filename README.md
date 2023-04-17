@@ -11,4 +11,4 @@
 # Project Overview 
 ### This project was completed with the loose guide found on *The Odin Project*
 - For a detailed look at my git log you can check out my private GitHub account below:
-- [Potential-Luttuce]https://github.com/Potential-Luttuce
+- [Potential-Luttuce](https://github.com/Potential-Luttuce)
