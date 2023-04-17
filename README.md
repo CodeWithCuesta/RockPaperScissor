@@ -8,3 +8,7 @@
 
 ## Enjoy and please feel free to leave any feedback
 <hr>
+# Project Overview 
+### This project was completed with the loose guide found on *The Odin Project*
+- For a detailed look at my git log you can check out my private GitHub account below:
+- https://github.com/Potential-Luttuce
